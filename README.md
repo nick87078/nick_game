@@ -7,3 +7,5 @@
 ## 小組成員:
 
 * 姓名 
+
+[高第一網站](http://www1.nkfust.edu.tw/bin/home.php)
