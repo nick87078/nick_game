@@ -8,4 +8,4 @@
 
 * 姓名 
 
-[高第一網站](http://www1.nkfust.edu.tw/bin/home.php)
+[高第一網站](http://www.nkfust.edu.tw)
