@@ -12,8 +12,8 @@
 * 電子2A 0552058林振毅
 
 [高第一網站](http://www.nkfust.edu.tw)
-
+![NKFUST](nkfust.jpg "NKFUST")
 ---
 :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 ---
-[- 魚仔 -](https://youtu.be/ybfWYpYhTQQ "盧廣仲 - 魚仔")
+[![魚仔](https://img.youtube.com/vi/ybfWYpYhTQQ/0.jpg)](https://youtu.be/ybfWYpYhTQQ "盧廣仲 - 魚仔")
